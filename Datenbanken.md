@@ -17,6 +17,7 @@ Entity-Relationship-Modell
 Fragen: Einen SQL Server aufspielen auf unserem Schulserver
 
 F1.1.
+<img width="1600" height="1121" alt="image" src="https://github.com/user-attachments/assets/bf1855ef-4c7a-49f6-8118-864dc2458c11" />
 
 
 ## 2. SQL
